@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Go,java,mongodb,Kubernate,C#,Unity,Angular**
 
-- 👯 I’m looking to collaborate on [printf](https://github.com/shaw342/holbertonschool-printf)
-
 - 👨‍💻 All of my projects are available at [https://github.com/shaw342/Kernel](https://github.com/shaw342/Kernel)
 
 - 📫 How to reach me **baruashawan41@gmail.com**
