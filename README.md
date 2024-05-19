@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [django_ecommerce](https://github.com/shaw342/django_ecommerce)
 
-- 🌱 I’m currently learning **Go,java,mongodb,Kubernate,C#,Unity,Angular**
+- 🌱 I’m currently learning **Go,java,mongodb,Kubernate,Angular**,Reactjs
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaw342/Kernel](https://github.com/shaw342/Kernel)
 
