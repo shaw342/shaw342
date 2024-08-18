@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go,java,mongodb,Kubernate,Angular**,Reactjs
 
-- 👨‍💻 All of my projects are available at [https://github.com/shaw342/Kernel](https://github.com/shaw342/Kernel)
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **baruashawan41@gmail.com**
 
