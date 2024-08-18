@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaw342" alt="shaw342" /></a> </p>
 
-- 🔭 I’m currently working on [django_ecommerce](https://github.com/shaw342/django_ecommerce)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Go,java,mongodb,Kubernate,Angular**,Reactjs
 
