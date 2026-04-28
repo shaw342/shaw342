@@ -1,31 +1,83 @@
-<h1 align="center">Hi 👋, I'm Shawan Barua</h1>
-<h3 align="center">A passionate software developer from France</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaw342&label=Profile%20views&color=0e75b6&style=flat" alt="shaw342" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaw342" alt="shaw342" /></a> </p>
-
-- 🔭 I’m currently working on 
-
-- 🌱 I’m currently learning **Go,java,mongodb,Kubernate,Angular**,Reactjs
-
-- 👨‍💻 All of my projects are available at 
-
-- 📫 How to reach me **baruashawan41@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shawan barua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawan barua" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shawanbarua @shawanbarua70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shawanbarua @shawanbarua70" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaw342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaw342" height="30" width="40" /></a>
+<!-- Header wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Shawan%20Barua&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Software%20Developer%20from%20France&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&lines=Crafting+clean%2C+modern+software;Backend+%E2%80%A2+Frontend+%E2%80%A2+Systems;Currently+exploring+Rust+%26+Go" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaw342&show_icons=true&locale=en&layout=compact" alt="shaw342" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaw342&label=Profile%20views&color=8B949E&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/shaw342?label=Followers&style=flat-square&color=8B949E" alt="followers" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaw342&show_icons=true&locale=en" alt="shaw342" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaw342&" alt="shaw342" /></p>
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="28"></picture> About me
 
+```yaml
+name:      Shawan Barua
+location:  France
+focus:     Backend systems, Web development
+learning:  [Go, Rust, MongoDB, Kubernetes, Angular, React]
+contact:   baruashawan41@gmail.com
+```
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="26"> Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/shawan-barua" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/shawanbarua70" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/shaw342" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
+  </a>
+  <a href="mailto:baruashawan41@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26"> Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,rust,go,python,js,ts,react,nextjs,svelte,flask,spring,mongodb,mysql,docker,kubernetes,git,linux&theme=dark&perline=9" alt="tech stack" />
+</p>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26"> GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaw342&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&ring_color=58A6FF" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaw342&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaw342&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaw342&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=C9D1D9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+<br/>
+
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn" alt="footer" />
+</p>
+
+<p align="center">
+  <i>“Simplicity is the ultimate sophistication.”</i>
+</p>
