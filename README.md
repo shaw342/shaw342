@@ -51,7 +51,7 @@ contact:   baruashawan41@gmail.com
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26"> Tech stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,rust,go,python,js,ts,react,nextjs,svelte,flask,spring,mongodb,mysql,docker,kubernetes,git,linux&theme=dark&perline=9" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=c,rust,go,python,js,ts,react,nextjs,svelte,flask,mongodb,mysql,docker,kubernetes,git,linux&theme=dark&perline=9" alt="tech stack" />
 </p>
 
 <br/>
